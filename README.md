@@ -37,7 +37,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo globar/local para parâmetros de segurança e lógica condicional | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
+| **Algoritimo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo globar/local para parâmetros de segurança e lógica condicional | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  
 ---
  
